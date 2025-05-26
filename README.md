@@ -1,1 +1,1 @@
-![](https://github.com/jitendra205saini/Maya/blob/main/maya/maya/media/splash.png?raw=true)
+![](https://github.com/jitendra205saini/Real-Time-Student-Attendance-System-Using-Face-Recognition/blob/main/toggle/kello.png)
